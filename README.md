@@ -6,5 +6,6 @@ The application can create, read, update and delete data, for example: products,
 
 ## Example
 https://curd-dqzp.vercel.app/products
+
 https://curd-dqzp.vercel.app/products/{id}
 
